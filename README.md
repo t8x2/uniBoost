@@ -46,7 +46,15 @@ motivate_student()
 ```
 
 ## 👩‍💻 Authors
-Tahminah Sarah Hakim-Ahmadzei – @t8x2
-Lirona Iseni
 
-For questions or feedback, feel free to reach out via GitHub or email.
+1. **Tahminah Sarah Hakim-Ahmadzei** – [@t8x2](https://github.com/t8x2)  
+   📧 [T.Hakim@campus.lmu.de](mailto:T.Hakim@campus.lmu.de)  
+2. **Lirona Iseni**  
+   📧 [l.iseni@campus.lmu.de](mailto:l.iseni@campus.lmu.de)
+
+---
+
+📝 *For questions, suggestions, or feedback, feel free to reach out via GitHub or email!*
+
+---
+
