@@ -1,13 +1,19 @@
 Package: uniBoost
 Type: Package
-Title: Motivational Tools for Students in R
+Title: Tools to Motivate and Support University Students in R
 Version: 0.1.0
 Authors@R:
-    person("Tahminah Sarah", "Hakim-Ahmadzei", email = "T.Hakim@campus.lmu.de" role = c("aut", "cre"))
-Description: A lighthearted package to support R learners with fun motivational 
-    messages and a simple Pomodoro-style timer. Designed to keep students 
-    focused, encouraged, and smiling through coding sessions.
+    c(
+        person("Tahminah Sarah", "Hakim-Ahmadzei", email = "T.Hakim@campus.lmu.de", role = c("aut", "cre")),
+        person("Lirona", "Iseni", email = "l.iseni@campus.lmu.de", role = "aut")
+    )
+Description: A fun and lightweight R package to support and motivate students 
+    during coding and study sessions. Includes a GPA calculator, motivational 
+    messages, a Pomodoro timer, and grade management with file saving 
+    and comparison functionality.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
+Imports:
+    beepr
 RoxygenNote: 7.3.2
