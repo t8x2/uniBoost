@@ -28,6 +28,7 @@ install.packages("remotes")
 
 Here are some example functions:
 
+```r
 # Launch the GPA calculator
 gpa_calculator()
 
@@ -42,8 +43,9 @@ pomodoro_timer()
 
 # Get a motivational quote
 motivate_student()
+```
 
-👩‍💻 Authors
+## 👩‍💻 Authors
 Tahminah Sarah Hakim-Ahmadzei – @t8x2
 Lirona Iseni
 
